@@ -1,0 +1,13 @@
+body {
+margin: 0;
+}
+
+.navbar {
+background-color: blue;
+}
+
+.navbar a {
+display: inline-block;
+text-decoration: none;
+color: black;
+}
